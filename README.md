@@ -35,5 +35,5 @@ pip install numpy matplotlib scikit-learn
 Run the following command:
 
 ```bash
-python kmeans-clustering.ipynb
+python kmeans_clustering.ipynb
 ```
